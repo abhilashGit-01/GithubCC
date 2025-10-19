@@ -4,4 +4,5 @@ const a=function(){
 
 function newFe(){
     console.log("new feature added");
+    console.log("helllo");
 }
